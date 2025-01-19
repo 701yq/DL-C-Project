@@ -1,1 +1,1 @@
-Evaluasi Perbandingan Performa Algoritma CNN dan RNN Terhadap Klasifikasi Toxic Comments
+Comparative Evaluation of CNN and RNN Algorithm Performance on Toxic Comments Classification
